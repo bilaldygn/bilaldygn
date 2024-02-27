@@ -3,4 +3,4 @@
 - And I know intermediate-level Python ,HTML ,CSS ,C++
 
 
-  <img src="https://github.com/bilaldygn/<deneme>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+  <img src="https://github.com/bilaldygn/deneme/blob/master/images/codeStats.svg" alt="Alternative Text"/>
